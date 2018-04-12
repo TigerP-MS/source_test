@@ -18,3 +18,4 @@ def hello3(a):
     for k in range(a):
         hello()
 
+hello3(5)
