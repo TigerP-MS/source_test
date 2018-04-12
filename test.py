@@ -24,3 +24,6 @@ def hello2():
 
 hello2()
 
+def mult(a, b):
+    print(a * b)
+
