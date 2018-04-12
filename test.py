@@ -5,3 +5,5 @@ hello()
 def hello3():
     for k in range(5):
         hello()
+
+hello3()
