@@ -6,3 +6,8 @@ def tri_add(a, b, c):
 
 add(1, 2)
 tri_add(1, 2, 3)
+
+def hello():
+    print("Hello world")
+hello()
+
