@@ -24,7 +24,15 @@ def hello2():
 
 hello2()
 
+
 def mult(a, b):
     print(a * b)
 
 mult(1, 2)
+
+def hello3(a):
+    for k in range(a):
+        hello()
+
+hello3(5)
+
