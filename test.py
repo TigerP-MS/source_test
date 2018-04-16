@@ -36,3 +36,6 @@ def hello3(a):
 
 hello3(5)
 
+def abc():
+    print("abc")
+    
