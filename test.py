@@ -42,3 +42,5 @@ def abc():
 abc()
 
 abc()
+
+print("1")
