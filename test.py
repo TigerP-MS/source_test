@@ -40,3 +40,5 @@ def abc():
     print("abc")
 
 abc()
+
+abc()
