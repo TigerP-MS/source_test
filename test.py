@@ -36,12 +36,15 @@ def hello3(a):
 
 hello3(5)
 
+
 def abc():
     print("abc")
 
 abc()
 
+
 abc()
+
 
 
 
@@ -51,4 +54,12 @@ print("14")
 
 
 print("145")
+
+print("123")
+
+def abcdef():
+    print("abcdef")
+
+
+
 
