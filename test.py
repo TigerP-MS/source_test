@@ -38,4 +38,5 @@ hello3(5)
 
 def abc():
     print("abc")
-    
+
+abc()
